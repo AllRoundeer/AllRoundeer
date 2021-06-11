@@ -1,4 +1,4 @@
-Working on simple C++ codes and workaround with final year projects task/ some electrical & electronics DIY's project.
+Working on mainly C++ codes and workaround with final year projects task/ some electrical & electronics DIY's project.
 Also helping some students to create problem solving thru existing projects.
 
 Main speciality on Arduino codes, a lil bit on IoT integration and some part of Raspberry Pi
