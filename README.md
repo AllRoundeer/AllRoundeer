@@ -5,7 +5,7 @@ Main speciality on Arduino codes, a lil bit on IoT integration and some part of 
 
 Reach me out on >>>
 
-Lnkedin: (update soon
+Lnkedin: https://www.linkedin.com/in/arif-azam-826b76141/
 
 Email: marif.azam@s.unikl.edu.my
 Email2: arifazam.arif@gmail.com
